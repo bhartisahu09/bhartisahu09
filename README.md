@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharti Sahu</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-     [GitHub followers](https://github.com/bhartisahu09)
-
 - 🔭 I’m currently working  as a [Flutter Developer]
 
 - 🌱 I’m currently learning **Flutter, SwiftUI**
@@ -12,8 +10,9 @@
 - ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
 
 ### Connect with me:
-
+<a href="https://twitter.com/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bharti09" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/bharti-sahu-2a2aa41b1/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhartisahu09" height="22" width="22" /></a>
+<a href="https://www.youtube.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="22" width="22" /></a>
 
 <br />
 
