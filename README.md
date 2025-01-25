@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharti Sahu</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working  as a [Flutter Developer]
+- 🔭 I’m currently working  as a **Flutter Developer**
 
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 
