@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Android**
 
-- 💻 I love exploring new tech stacks and developing new stuff
+- 💻 I love exploring new tech stacks and developing new stuff.
 
 - 🎨 I also love drawing and improving.
 
