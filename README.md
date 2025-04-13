@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter, Android**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 💻 I love exploring new tech stacks and developing new stuff
+
+- 🎨 I also love drawing and improving.
+
+<!-- - 👯 I’m looking to collaborate with **other content creators**  -->
 
 - ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
 
