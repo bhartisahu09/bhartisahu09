@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter, Android**
 
-- 💻 I love exploring new tech stacks and developing new stuff.
+- 💻 I love exploring new tech stacks and developing new stuff. 
 
-- 🎨 I also love drawing and improving.
+<!-- - 🎨 I also love drawing and improving.  -->
 
 <!-- - 👯 I’m looking to collaborate with **other content creators**  -->
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+<!-- - ⚡ Fun fact **I love to play Badminton and Chai over coffee.** -->
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bharti-sahu-2a2aa41b1/)
