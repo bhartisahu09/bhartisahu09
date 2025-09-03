@@ -28,7 +28,7 @@
 -->
 
 ### 🔧 Technologies and Tools: 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,vscode,java,kotlin,figma,git,gradle,postman,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,vscode,java,kotlin,figma,git,github,postman)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,vscode,java,kotlin,nodejs,figma,html,css,js,react,mongodb,bash,git,github,gradle,npm,postman,linux&theme=dark)](https://skillicons.dev)
 
