@@ -14,7 +14,7 @@ Passionate Flutter Developer with 4+ years of experience building scalable, high
 - 🏗️ Experienced in **Clean Architecture, MVVM, Provider, Bloc & GetX**
 - 🔥 Hands-on experience with **Firebase (FCM, Analytics & Crashlytics)**
 - 🌐 Strong knowledge of **REST APIs, SQLite & Performance Optimization**
-- 🌱 Currently learning **Flutter Testing, CI/CD and Advanced Flutter Performance Optimization**
+- 📚 Continuously enhancing expertise in **Flutter Testing, CI/CD, and scalable mobile architecture**
 - 💡 Passionate about writing clean, maintainable and scalable code
 
 ---
