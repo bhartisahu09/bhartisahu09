@@ -39,7 +39,6 @@ Passionate Flutter Developer with 4+ years of experience building scalable, high
 - Dart
 - Android
 - iOS
-- Firebase
 - REST APIs
 - Provider
 - Bloc
@@ -48,15 +47,16 @@ Passionate Flutter Developer with 4+ years of experience building scalable, high
 - Clean Architecture
 - MVVM
 - Git & GitHub
+- Firebase (FCM • Analytics • Crashlytics)
 - Performance Optimization
 
 ---
 
 ## 📂 Featured Projects
 
-- 💬 Real-Time Chat Application
-- 🛒 Ecommerce Application
-- 🛡️ Raksha Safety Alert App
+- 💬 Real-Time Chat Application (Flutter, Firebase)
+- 🛒 Ecommerce Application (Flutter, REST APIs)
+- 🛡️ Raksha Safety Alert App (Java, Android)
 - 👨‍💼 Employee Review System
 
 ---
